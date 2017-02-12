@@ -5,4 +5,4 @@ From tomcat:8-jre8
 MAINTAINER "mansingshinde86@gmail.com"
 
 # Copy to images tomcat path
-ADD Sample.war /usr/local/tomcat/webapps/
+ADD sample.war /usr/local/tomcat/webapps/
